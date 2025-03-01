@@ -121,4 +121,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ---
 
-*Note: This README template is based on standard practices for documenting GitHub repositories. Please customize the sections to accurately reflect the specifics of your project.* 
